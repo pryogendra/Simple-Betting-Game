@@ -21,44 +21,34 @@ Installation
 To set up and run this project locally, follow these steps:
 
     Clone the repository:
-
-    bash
-
-git clone https://github.com/pryogendra/Simple-Betting-Game.git
+    git clone https://github.com/pryogendra/Simple-Betting-Game.git
 
 Navigate to the project directory:
-
-bash
-
-cd Simple-Betting-Game
+    
+    cd Simple-Betting-Game
 
 Restore the project dependencies:
 
-bash
-
-dotnet restore
+    dotnet restore
 
 Build the project:
 
-bash
-
-dotnet build
+    dotnet build
 
 Run the application:
-
-bash
 
     dotnet run
 
     The application will start, and you can access it in your web browser at https://localhost:5001.
 
-Usage
 
 Once the application is running:
 
     Open your web browser and go to https://localhost:5001.
     You will see the betting interface where you can place your bets.
     Follow the on-screen instructions to place your bets and view the results.
+Screenshots:
+![Screenshot From 2025-04-26 18-43-06](https://github.com/user-attachments/assets/b96c2cba-b8a4-4eb8-bfd7-7a3816f62c56)
 
 Contributing
 
